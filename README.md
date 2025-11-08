@@ -3,12 +3,12 @@
 A lightweight project to track, manage, and audit medical supplies and inventory for clinics, hospitals, and pharmacies. This repository contains the application source, supporting documents, planning artifacts, and a demo video.
 
 ## Team Details
- Team ID : NM2025TMID05827  
+ Team ID : NM2025TMID03885  
     - Team Size : 4  
-    - Team Leader : Prakash N  
-    - Team member : Aruna DEVI S  
-    - Team member : HARI Prasath S  
-    - Team member : Gohul RAJ G
+    - Team Leader : Karthikayen S
+    - Team member : Sethuraman J  
+    - Team member : Karthickpandi K  
+    - Team member : Bharthi C
 
 
 ## Contents
