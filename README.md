@@ -5,10 +5,10 @@ A lightweight project to track, manage, and audit medical supplies and inventory
 ## Team Details
  Team ID : NM2025TMID03885  
     - Team Size : 4  
-    - Team Leader : Karthikayen S
+    - Team Leader : Karthikeyan S
     - Team member : Sethuraman J  
     - Team member : Karthickpandi K  
-    - Team member : Bharthi C
+    - Team member : Bharathi C
 
 
 ## Contents
